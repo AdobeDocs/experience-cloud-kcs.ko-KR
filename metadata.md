@@ -4,17 +4,17 @@ solution-title: Troubleshooting
 type: Troubleshooting
 index: true
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.ko-KR
-source-git-commit: fd6d5b238753d067c34e71f283f1c92cb7d53237
+source-git-commit: 0f546139887bd42346c58b8aa0ef76015688601c
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 96%
+source-wordcount: '128'
+ht-degree: 85%
 
 ---
 
 
 # 내부용 메타데이터
 
-metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 모든 사용 안내서를 위한 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행하십시오.
+다음 [!DNL metadata.md] 파일에는 사용 안내서에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다 [!DNL TOC.md] 보고서에 있는 파일입니다. 모든 사용 안내서를 위한 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행하십시오.
 
 | 메타데이터 | 기능 |
 |--- |--- |
